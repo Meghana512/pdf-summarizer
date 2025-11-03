@@ -15,7 +15,7 @@ It extracts text, processes it using a fine-tuned LLM, and produces concise summ
 
 
 **Set up Instructions**
-``bash
+``bash``
 
 1.Clone the repository
    ``git clone htts://github.com/Meghana512/pdf-summarizer.git``
@@ -23,20 +23,20 @@ It extracts text, processes it using a fine-tuned LLM, and produces concise summ
 
 
 2.Create and Activate Virtual Environment
-   python -m venv .venv
-   ./.venv/scripts/activate
+   ``python -m venv .venv``
+   ``./.venv/scripts/activate``
 
 
 3.Install Dependencies
-   pip install -r requirements.txt
+   ``pip install -r requirements.txt``
 
 
 4.Set the current directory as your path
-    $env:PYTHONPATH = (Get-Location).Path
+    ``$env:PYTHONPATH = (Get-Location).Path``
 
 
 5.Run the Streamlit Web Application
-    streamlit run app/web_app.py
+    ``streamlit run app/web_app.py``
 
 
 
