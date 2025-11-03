@@ -14,7 +14,7 @@ It extracts text, processes it using a fine-tuned LLM, and produces concise summ
 - 🌐 Streamlit web interface for uploading and summarizing PDFs
 
 
-**Set up Instructions**
+***Set up Instructions***
 ``bash``
 
 1.Clone the repository
