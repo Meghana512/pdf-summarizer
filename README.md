@@ -18,8 +18,8 @@ It extracts text, processes it using a fine-tuned LLM, and produces concise summ
 ``bash
 
 1.Clone the repository
-   git clone htts://github.com/Meghana512/pdf-summarizer.git
-   cd pdf-summarizer
+   ``git clone htts://github.com/Meghana512/pdf-summarizer.git``
+   ``cd pdf-summarizer``
 
 
 2.Create and Activate Virtual Environment
